@@ -8,27 +8,30 @@
 
 /* Begin PBXBuildFile section */
 		0F34CD2624FFFB63009B7EE0 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 0F34CD2524FFFB63009B7EE0 /* AppDelegate.m */; };
-		0F34CD2924FFFB63009B7EE0 /* SceneDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 0F34CD2824FFFB63009B7EE0 /* SceneDelegate.m */; };
-		0F34CD2C24FFFB63009B7EE0 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 0F34CD2B24FFFB63009B7EE0 /* ViewController.m */; };
-		0F34CD2F24FFFB63009B7EE0 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 0F34CD2D24FFFB63009B7EE0 /* Main.storyboard */; };
 		0F34CD3124FFFB70009B7EE0 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 0F34CD3024FFFB70009B7EE0 /* Assets.xcassets */; };
 		0F34CD3424FFFB70009B7EE0 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 0F34CD3224FFFB70009B7EE0 /* LaunchScreen.storyboard */; };
 		0F34CD3724FFFB70009B7EE0 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 0F34CD3624FFFB70009B7EE0 /* main.m */; };
+		0FAB48B925035FF900EB43C4 /* NDMainEntryViewViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 0FAB48B825035FF900EB43C4 /* NDMainEntryViewViewController.m */; };
+		0FAB48BF2503633800EB43C4 /* NDFunctionsFactory.m in Sources */ = {isa = PBXBuildFile; fileRef = 0FAB48BE2503633800EB43C4 /* NDFunctionsFactory.m */; };
+		0FAB48C12503BABA00EB43C4 /* NDFunctionsTableViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 0FAB48BB250360B100EB43C4 /* NDFunctionsTableViewController.m */; };
+		0FAB48C22503BB8400EB43C4 /* NDMainEntryViewViewController.h in Resources */ = {isa = PBXBuildFile; fileRef = 0FAB48B725035FF900EB43C4 /* NDMainEntryViewViewController.h */; };
+		0FAB48C32503BBA200EB43C4 /* NDFunctionsTableViewController.h in Resources */ = {isa = PBXBuildFile; fileRef = 0FAB48BA250360B100EB43C4 /* NDFunctionsTableViewController.h */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
 		0F34CD2124FFFB63009B7EE0 /* NaoDong.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = NaoDong.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		0F34CD2424FFFB63009B7EE0 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
 		0F34CD2524FFFB63009B7EE0 /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
-		0F34CD2724FFFB63009B7EE0 /* SceneDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = SceneDelegate.h; sourceTree = "<group>"; };
-		0F34CD2824FFFB63009B7EE0 /* SceneDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = SceneDelegate.m; sourceTree = "<group>"; };
-		0F34CD2A24FFFB63009B7EE0 /* ViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ViewController.h; sourceTree = "<group>"; };
-		0F34CD2B24FFFB63009B7EE0 /* ViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ViewController.m; sourceTree = "<group>"; };
-		0F34CD2E24FFFB63009B7EE0 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		0F34CD3024FFFB70009B7EE0 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		0F34CD3324FFFB70009B7EE0 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		0F34CD3524FFFB70009B7EE0 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		0F34CD3624FFFB70009B7EE0 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		0FAB48B725035FF900EB43C4 /* NDMainEntryViewViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = NDMainEntryViewViewController.h; sourceTree = "<group>"; };
+		0FAB48B825035FF900EB43C4 /* NDMainEntryViewViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = NDMainEntryViewViewController.m; sourceTree = "<group>"; };
+		0FAB48BA250360B100EB43C4 /* NDFunctionsTableViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = NDFunctionsTableViewController.h; sourceTree = "<group>"; };
+		0FAB48BB250360B100EB43C4 /* NDFunctionsTableViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = NDFunctionsTableViewController.m; sourceTree = "<group>"; };
+		0FAB48BD2503633800EB43C4 /* NDFunctionsFactory.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = NDFunctionsFactory.h; sourceTree = "<group>"; };
+		0FAB48BE2503633800EB43C4 /* NDFunctionsFactory.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = NDFunctionsFactory.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,17 +66,26 @@
 			children = (
 				0F34CD2424FFFB63009B7EE0 /* AppDelegate.h */,
 				0F34CD2524FFFB63009B7EE0 /* AppDelegate.m */,
-				0F34CD2724FFFB63009B7EE0 /* SceneDelegate.h */,
-				0F34CD2824FFFB63009B7EE0 /* SceneDelegate.m */,
-				0F34CD2A24FFFB63009B7EE0 /* ViewController.h */,
-				0F34CD2B24FFFB63009B7EE0 /* ViewController.m */,
-				0F34CD2D24FFFB63009B7EE0 /* Main.storyboard */,
 				0F34CD3024FFFB70009B7EE0 /* Assets.xcassets */,
 				0F34CD3224FFFB70009B7EE0 /* LaunchScreen.storyboard */,
 				0F34CD3524FFFB70009B7EE0 /* Info.plist */,
 				0F34CD3624FFFB70009B7EE0 /* main.m */,
+				0FAB48B625035FF900EB43C4 /* MainEntry */,
 			);
 			path = NaoDong;
+			sourceTree = "<group>";
+		};
+		0FAB48B625035FF900EB43C4 /* MainEntry */ = {
+			isa = PBXGroup;
+			children = (
+				0FAB48B725035FF900EB43C4 /* NDMainEntryViewViewController.h */,
+				0FAB48B825035FF900EB43C4 /* NDMainEntryViewViewController.m */,
+				0FAB48BA250360B100EB43C4 /* NDFunctionsTableViewController.h */,
+				0FAB48BB250360B100EB43C4 /* NDFunctionsTableViewController.m */,
+				0FAB48BD2503633800EB43C4 /* NDFunctionsFactory.h */,
+				0FAB48BE2503633800EB43C4 /* NDFunctionsFactory.m */,
+			);
+			path = MainEntry;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -102,6 +114,7 @@
 		0F34CD1924FFFB62009B7EE0 /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
+				CLASSPREFIX = ND;
 				LastUpgradeCheck = 1120;
 				ORGANIZATIONNAME = WangPengfei;
 				TargetAttributes = {
@@ -133,9 +146,10 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				0FAB48C32503BBA200EB43C4 /* NDFunctionsTableViewController.h in Resources */,
+				0FAB48C22503BB8400EB43C4 /* NDMainEntryViewViewController.h in Resources */,
 				0F34CD3424FFFB70009B7EE0 /* LaunchScreen.storyboard in Resources */,
 				0F34CD3124FFFB70009B7EE0 /* Assets.xcassets in Resources */,
-				0F34CD2F24FFFB63009B7EE0 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -146,24 +160,17 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				0F34CD2C24FFFB63009B7EE0 /* ViewController.m in Sources */,
 				0F34CD2624FFFB63009B7EE0 /* AppDelegate.m in Sources */,
+				0FAB48C12503BABA00EB43C4 /* NDFunctionsTableViewController.m in Sources */,
+				0FAB48B925035FF900EB43C4 /* NDMainEntryViewViewController.m in Sources */,
 				0F34CD3724FFFB70009B7EE0 /* main.m in Sources */,
-				0F34CD2924FFFB63009B7EE0 /* SceneDelegate.m in Sources */,
+				0FAB48BF2503633800EB43C4 /* NDFunctionsFactory.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXSourcesBuildPhase section */
 
 /* Begin PBXVariantGroup section */
-		0F34CD2D24FFFB63009B7EE0 /* Main.storyboard */ = {
-			isa = PBXVariantGroup;
-			children = (
-				0F34CD2E24FFFB63009B7EE0 /* Base */,
-			);
-			name = Main.storyboard;
-			sourceTree = "<group>";
-		};
 		0F34CD3224FFFB70009B7EE0 /* LaunchScreen.storyboard */ = {
 			isa = PBXVariantGroup;
 			children = (
